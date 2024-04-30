@@ -1,0 +1,4 @@
+Texto de ejemplo
+salto de linea
+123$
+verificamos si funciona

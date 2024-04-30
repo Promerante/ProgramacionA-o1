@@ -1,0 +1,4 @@
+0=>Texto de ejemplo
+1=>salto de linea
+2=>123$
+3=>verificamos si funciona

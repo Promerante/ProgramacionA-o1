@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="FraGon
+    .xsl"?>
+<desguace>
+    <vehiculos>
+        <vehiculo id="ForFoc1">
+            <marca>Ford</marca>
+            <modelo>Focus</modelo>
+            <anio>2010</anio>
+            <color>Azul</color>
+            <precio_vehiculo>3500</precio_vehiculo>
+            <estado_vehiculo>Usado</estado_vehiculo>
+            <piezas>
+                <pieza id="ForFocMot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor de gasolina 1.6L</descripcion>
+                    <precio>1200</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ForFocTra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios automática</descripcion>
+                    <precio>800</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ForFocLla1">
+                    <nombre>Llantas</nombre>
+                    <tipo>Llantas</tipo>
+                    <descripcion>Juego de 4 llantas de aleación</descripcion>
+                    <precio>400</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ForFocPar1">
+                    <nombre>Parachoques</nombre>
+                    <tipo>Carrocería</tipo>
+                    <descripcion>Parachoques delantero</descripcion>
+                    <precio>150</precio>
+                    <estado>Usado</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+        
+        <vehiculo id="ToyCor1">
+            <marca>Toyota</marca>
+            <modelo>Corolla</modelo>
+            <anio>2015</anio>
+            <color>Rojo</color>
+            <precio_vehiculo>5000</precio_vehiculo>
+            <estado_vehiculo>Para desguace</estado_vehiculo>
+            <piezas>
+                <pieza id="ToyCorMot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor de gasolina 1.8L</descripcion>
+                    <precio>1500</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ToyCorTra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios automática</descripcion>
+                    <precio>900</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ToyCorFar1">
+                    <nombre>Faros</nombre>
+                    <tipo>Iluminación</tipo>
+                    <descripcion>Juego de faros delanteros LED</descripcion>
+                    <precio>600</precio>
+                    <estado>Nuevo</estado>
+                </pieza>
+                <pieza id="ToyCorEsp1">
+                    <nombre>Espejo lateral</nombre>
+                    <tipo>Carrocería</tipo>
+                    <descripcion>Espejo retrovisor lateral izquierdo</descripcion>
+                    <precio>200</precio>
+                    <estado>Usado</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+        
+        <vehiculo id="CheCru1">
+            <marca>Chevrolet</marca>
+            <modelo>Cruze</modelo>
+            <anio>2012</anio>
+            <color>Plateado</color>
+            <precio_vehiculo>4200</precio_vehiculo>
+            <estado_vehiculo>Para desguace</estado_vehiculo>
+            <piezas>
+                <pieza id="CheCruMot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor diésel 2.0L</descripcion>
+                    <precio>1800</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="CheCruTra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios manual</descripcion>
+                    <precio>700</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="CheCruRet1">
+                    <nombre>Retrovisor</nombre>
+                    <tipo>Carrocería</tipo>
+                    <descripcion>Retrovisor exterior derecho</descripcion>
+                    <precio>120</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="CheCruBat1">
+                    <nombre>Batería</nombre>
+                    <tipo>Eléctrico</tipo>
+                    <descripcion>Batería de 12V</descripcion>
+                    <precio>100</precio>
+                    <estado>nueva</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+        
+        <vehiculo id="BMWSer1">
+            <marca>BMW</marca>
+            <modelo>Serie 3</modelo>
+            <anio>2018</anio>
+            <color>Negro</color>
+            <precio_vehiculo>9000</precio_vehiculo>
+            <estado_vehiculo>Usado</estado_vehiculo>
+            <piezas>
+                <pieza id="BMWSerMot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor de gasolina 2.0L</descripcion>
+                    <precio>2500</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="BMWSerTra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios automática</descripcion>
+                    <precio>1500</precio>
+                    <estado>nueva</estado>
+                </pieza>
+                <pieza id="BMWSerLla1">
+                    <nombre>Llantas</nombre>
+                    <tipo>Llantas</tipo>
+                    <descripcion>Juego de 4 llantas de aleación</descripcion>
+                    <precio>800</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="BMWSerAsi1">
+                    <nombre>Asientos</nombre>
+                    <tipo>Interior</tipo>
+                    <descripcion>Juego de asientos de cuero negro</descripcion>
+                    <precio>1200</precio>
+                    <estado>Usado</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+        
+        <vehiculo id="MerCla1">
+            <marca>Mercedes-Benz</marca>
+            <modelo>Clase C</modelo>
+            <anio>2016</anio>
+            <color>Blanco</color>
+            <precio_vehiculo>8500</precio_vehiculo>
+            <estado_vehiculo>Usado</estado_vehiculo>
+            <piezas>
+                <pieza id="MerClaMot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor diésel 2.2L</descripcion>
+                    <precio>2000</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="MerClaTra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios automática</descripcion>
+                    <precio>1200</precio>
+                    <estado>reacondicionado</estado>
+                </pieza>
+                <pieza id="MerClaFar1">
+                    <nombre>Faros</nombre>
+                    <tipo>Iluminación</tipo>
+                    <descripcion>Juego de faros delanteros LED</descripcion>
+                    <precio>700</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="MerClaPar1">
+                    <nombre>Parachoques</nombre>
+                    <tipo>Carrocería</tipo>
+                    <descripcion>Parachoques trasero</descripcion>
+                    <precio>300</precio>
+                    <estado>Usado</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+        
+        <vehiculo id="ToyCor2">
+            <marca>Toyota</marca>
+            <modelo>Corolla</modelo>
+            <anio>2015</anio>
+            <color>Gris</color>
+            <precio_vehiculo>4800</precio_vehiculo>
+            <estado_vehiculo>Usado</estado_vehiculo>
+            <piezas>
+                <pieza id="ToyCor2Mot1">
+                    <nombre>Motor</nombre>
+                    <tipo>Motor</tipo>
+                    <descripcion>Motor diésel 2.0L</descripcion>
+                    <precio>2000</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ToyCor2Tra1">
+                    <nombre>Transmisión</nombre>
+                    <tipo>Transmisión</tipo>
+                    <descripcion>Caja de cambios automática</descripcion>
+                    <precio>1300</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ToyCor2Lla1">
+                    <nombre>Llantas</nombre>
+                    <tipo>Llantas</tipo>
+                    <descripcion>Juego de 4 llantas de aleación</descripcion>
+                    <precio>600</precio>
+                    <estado>Usado</estado>
+                </pieza>
+                <pieza id="ToyCor2Lla2">
+                    <nombre>Llantas</nombre>
+                    <tipo>Llantas</tipo>
+                    <descripcion>Juego de 4 llantas de aleación</descripcion>
+                    <precio>600</precio>
+                    <estado>Usado</estado>
+                </pieza>
+            </piezas>
+        </vehiculo>
+    </vehiculos>
+</desguace>

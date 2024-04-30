@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Medac Tarde/Desktop/Apuntes/Programacion/Proyectos/PracticaFacuDani/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Medac Tarde/Desktop/Apuntes/Programacion/Proyectos/PracticaFacuDani/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PracticaFacuDani 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PracticaFacuDani 1.0-SNAPSHOT API'
+com.mycompany.practicafacudani
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\src\main\java = 1710870585323
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\allclasses-index.html = 1710871063177
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\allpackages-index.html = 1710871063186
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\element-list = 1710871063071
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\help-doc.html = 1710871063247
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\index-all.html = 1710871063228
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\index.html = 1710871063237
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\jquery-ui.overrides.css = 1710871063295
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\member-search-index.js = 1710871063202
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\module-search-index.js = 1710871063190
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\overview-tree.html = 1710871063153
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\package-search-index.js = 1710871063194
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\script.js = 1710871063256
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\search.js = 1710871063261
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\stylesheet.css = 1710871063253
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\tag-search-index.js = 1710871063205
+C:\Users\Medac Tarde\Desktop\Apuntes\Programacion\Proyectos\PracticaFacuDani\target\site\apidocs\type-search-index.js = 1710871063200
